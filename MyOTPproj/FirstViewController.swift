@@ -15,6 +15,8 @@ class FirstViewController: UIViewController {
     
     @IBOutlet var Btn: UIButton!
     
+    
+    //changes made
     override func viewDidLoad() {
         super.viewDidLoad()
        
@@ -47,5 +49,13 @@ class FirstViewController: UIViewController {
        }
 
 }
+    
+ //bug fixed
+    
+    
+    
+    
+    
+    
     
 }
